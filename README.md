@@ -53,6 +53,28 @@ An excel dashboard project analyzing customer behavior and sales performance usi
 
 ---
 
+## 📌 Recommendations
+
+- **🎯 Focus on High CLV Segments:**  
+  Target medium and high-value customers with personalized promotions and loyalty programs.
+
+- **🛍️ Upsell to Low CLV Customers:**  
+  Encourage low-value customers to increase order size through bundle deals or product suggestions.
+
+- **📅 Monitor Customer Churn Regularly:**  
+  Investigate churn spikes and implement retention strategies such as win-back campaigns.
+
+- **📦 Prepare for Seasonal Demand:**  
+  Use seasonal patterns to optimize inventory and marketing during peak months.
+
+- **🌍 Invest in Top-Performing Regions:**  
+  Focus efforts on markets like the UK, which generate most of the revenue.
+
+- **📈 Track KPIs Continuously:**  
+  Use dashboards for ongoing monitoring and strategy refinement.
+
+---
+
 ## 💾 Dataset
 
 - **Source:** [UCI Machine Learning Repository – Online Retail II](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
@@ -60,11 +82,17 @@ An excel dashboard project analyzing customer behavior and sales performance usi
 
 ---
 
-## 🧰 Tools Used
+## 📂 Tools & Techniques Used
 
-- **Power Query**
-- **Excel**
-- **Excel Formulas (Count, CountA, If, Ifs, Sum, Xlookup, Unique)**
+- **Tool:** Microsoft Excel  
+- **Techniques:**  
+  - Data Cleaning  
+  - Pivot Tables  
+  - Interactive Charts (Pie, Bar, Line)  
+  - Dashboard Design  
+  - Data Analysis & Interpretation
+  -  **Power Query**
+  -   **Excel Formulas (Count, CountA, If, Ifs, Sum, Xlookup, Unique)**
 
 ---
 
