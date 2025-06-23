@@ -8,21 +8,39 @@ An excel dashboard project analyzing customer behavior and sales performance usi
 
 ![Retail Dashboard](Retail_Data_Analysis_Dashboard.png)
 
-The dashboard covers:
+## 📌 Dashboard Features Explained
 
-- **Total Turnover:** $17.74M (2009–2011)
-- **Customer Lifetime Value Segmentation**
-- **New & Churned Customers by Month**
-- **Monthly Orders and Seasonal Trends**
-- **Top Countries by Revenue**
-- **Key Performance Metrics**:
-  - Total Customers: 5,881
-  - Total Orders: 36,975
-  - Avg. Order per Customer: 6
-  - Avg. Order Value: $480
-  - Avg. Revenue per Customer: $3,017
+- **🧾 Total Turnover: $17.74M (2009–2011)**  
+  Total revenue generated from all customer purchases over three years.
 
----
+- **📊 Customer Lifetime Value Segmentation**  
+  Customers are categorized into Low, Medium, and High value groups based on their total spending.
+
+- **👥 New & Churned Customers by Month**  
+  Visualizes monthly trends in new customer acquisition and customer loss (churn).
+
+- **📅 Monthly Orders and Seasonal Trends**  
+  Shows fluctuations in order volume across months to identify peak seasons and slow periods.
+
+- **🌍 Top Countries by Revenue**  
+  Highlights the countries that generated the most revenue, helping identify key markets.
+
+### 📈 Key Performance Metrics
+
+- **Total Customers:** 5,881  
+  Number of unique customers who placed at least one order.
+
+- **Total Orders:** 36,975  
+  Total number of purchase transactions.
+
+- **Average Orders per Customer:** 6  
+  On average, each customer placed 6 orders.
+
+- **Average Order Value:** $480  
+  The average revenue from a single transaction.
+
+- **Average Revenue per Customer:** $3,017  
+  On average, each customer contributed $3,017 in total revenue.
 
 ## 🔍 Key Insights
 
